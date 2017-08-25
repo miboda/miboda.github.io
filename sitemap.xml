@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://miboda.github.io/index.html</loc>
+    <lastmod>2017-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/software%20para%20organizar%20una%20boda.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/que%20es%20mi%20boda.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/como%20organizar%20una%20boda.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/invitaciones%20de%20boda.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/ay%C3%BAdanos%20a%20organizar%20bodas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/como%20contactarnos.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://miboda.github.io/images/recursos%20%C3%BAtiles%20para%20organizar%20una%20boda.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>

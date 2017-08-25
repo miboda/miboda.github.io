@@ -1,0 +1,50 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="miboda.github.io" resolutions="1x" timestamp="1503619588767">
+  <folder name="css">
+    <file name="site_global.css" crc="428872912"/>
+    <file name="index.css" crc="432721875" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u146-6.png" crc="3777864665" ref="index"/>
+    <file name="software para organizar una boda.jpg" crc="4226366412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="que es mi boda.jpg" crc="255193375" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="como organizar una boda.jpg" crc="526154471" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="invitaciones de boda.jpg" crc="355160269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u225-4.png" crc="528716550" ref="index"/>
+    <file name="u228-4.png" crc="3775904496" ref="index"/>
+    <file name="u231-4.png" crc="3959940743" ref="index"/>
+    <file name="u246-4.png" crc="93702236" ref="index"/>
+    <file name="ayúdanos a organizar bodas.jpg" crc="4038659420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="como contactarnos.jpg" crc="447498972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recursos útiles para organizar una boda.jpg" crc="4121602632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u285-4.png" crc="274187275" ref="index"/>
+    <file name="u291-4.png" crc="4042423418" ref="index"/>
+    <file name="u294-4.png" crc="4136655958" ref="index"/>
+    <file name="u306-4.png" crc="4022523540" ref="index"/>
+    <file name="u309-4.png" crc="25461351" ref="index"/>
+    <file name="u312-4.png" crc="397080318" ref="index"/>
+    <file name="u315-4.png" crc="3780301683" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4117123692" seo="true" mt="1503619574265" redirect="true"/>
+</manifest>
